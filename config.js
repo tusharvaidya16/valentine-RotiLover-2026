@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹 But most important, Can you be my forever fight girl?🫰🏻", // The big question!
+            text: "Will you be my Valentine on February 14th, 2026? 🌹 But most important, Can you be my forever fight girl?🫰🏻", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
